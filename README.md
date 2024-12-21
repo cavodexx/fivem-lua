@@ -33,5 +33,5 @@ The program is designed to make it easy to create a starting point for your Five
 To get started, clone this repository to your local machine:
 
 ```bash
-
+https://github.com/cavodexx/fivem-lua.git
 cd your file
